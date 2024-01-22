@@ -9,8 +9,8 @@
 **实验只使用了广度优先搜索**  
 ## 使用
 > 随机初始化九宫格状态，进行100次随机实验
-> 运行myexp.cpp
-单次测试
-> 运行single_test.cpp
+> 运行myexp.cpp  
+单次测试  
+> 运行single_test.cpp  
 ## 其他
 在Snode中实现了parent属性，你可以使用它对其状态转移进行追溯。一个节点的parent与父节点在CLOSED表下存在对应关系
