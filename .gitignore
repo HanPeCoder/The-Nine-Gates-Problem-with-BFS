@@ -1,0 +1,6 @@
+*.txt
+/exe
+exp.cpp
+exp2.cpp
+test.cpp
+.vscode
